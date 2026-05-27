@@ -1,1 +1,15 @@
+# MichiganX: Programming for Everyone (Getting Started with Python) - edX
 
+This repository contains all my practical assignments, quizzes, and personal notes for the Python programming course offered by the University of Michigan through edX.
+
+## 🎯 Course Objectives
+* Understand the fundamentals of programming using Python.
+* Master core concepts: variables, conditional execution, functions, and loops.
+* Build programs to solve data processing problems.
+
+## 🛠️ Technologies Used
+* **Language:** Python 3.x
+* **Tools:** Text Editor / VS Code, Command Line / Terminal
+
+## 📚 Repository Structure
+* Each folder corresponds to a chapter or module of the course containing the respective code exercises (`.py` files).
