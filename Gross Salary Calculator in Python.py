@@ -1,5 +1,5 @@
-name=input("¿Como te llamas?")
-print("Hola",name) 
+name=input("¿What your name?")
+print("Hello",name) 
 hour=float(input("¿How many hours do you work per month?"))
 fee=float(input("¿How much do you earn per hour?"))
 total= hour * fee
